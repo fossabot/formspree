@@ -12,7 +12,7 @@ var (
 	referrer = "1234"
 )
 
-func ExampleFormspree_Submit() {
+func ExampleSubmit() {
 	form := formspree.Form{}
 
 	form.SetEmail("sender@example.com")
