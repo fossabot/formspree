@@ -1,6 +1,8 @@
 # formspree
-[![CircleCI](https://circleci.com/gh/hourglassdesign/formspree.svg?style=svg)](https://circleci.com/gh/hourglassdesign/formspree)
+[![CircleCI](https://img.shields.io/circleci/project/github/hourglassdesign/formspree.svg)](https://circleci.com/gh/hourglassdesign/formspree)
 [![GoDoc](https://godoc.org/github.com/hourglassdesign/formspree?status.svg)](http://godoc.org/github.com/hourglassdesign/formspree)
+[![Go Report Card](https://goreportcard.com/badge/github.com/hourglassdesign/formspree)](https://goreportcard.com/report/github.com/hourglassdesign/formspree)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/davidsbond/brock/master/LICENSE)
 
 A simple golang client for submitting forms via formspree.io
 
