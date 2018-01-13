@@ -6,9 +6,6 @@ jobs:
 
     working_directory: /go/src/github.com/hourglassdesign/formspree
 
-    environment:
-      TEST_RESULTS: /tmp/test-results
-
     steps:
       - checkout
       - run:
