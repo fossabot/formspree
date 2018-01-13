@@ -1,3 +1,5 @@
+// Package formspree contains types and methods for interacting with the formspree
+// api. See formspree.io for more details.
 package formspree
 
 import (
